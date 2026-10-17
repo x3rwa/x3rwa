@@ -2,10 +2,7 @@
 <!-- GitHub Profile README | github.com/x3rwa -->
 
 <div align="center">
-  <img
-    width="100%"
-    alt="Orwah Njjar — Full-Stack Developer"
-  />
+  <h3>Orwah Njjar — Full-Stack Developer.</h3>
 
   <h3>Building practical systems &amp; business solutions.</h3>
   <p>Web Applications · SaaS Products · APIs · AI Tools &amp; Integration</p>
