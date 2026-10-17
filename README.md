@@ -3,7 +3,6 @@
 
 <div align="center">
   <img
-    src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:0D1117,50:172554,100:2563EB&amp;height=220&amp;section=header&amp;text=Orwah%20Njjar&amp;fontSize=50&amp;fontColor=FFFFFF&amp;fontAlignY=38&amp;desc=Full-Stack%20Developer%20%7C%20MERN%20%26%20PERN%20Stacks&amp;descAlignY=59&amp;descSize=18"
     width="100%"
     alt="Orwah Njjar — Full-Stack Developer"
   />
